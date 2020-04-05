@@ -1,0 +1,8 @@
+message: "&lConfirmation &8» &fPress the drop-button again to drop the item."
+titlemessage: "&c&lWarning"
+subtitlemessage: "&fPress the drop-button again to drop the item."
+duration: 3
+type: "title"
+sound: "ANVIL_BREAK"
+confirmall: false
+confirmedtime: 10

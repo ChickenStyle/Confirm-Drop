@@ -1,0 +1,8 @@
+name: ConfirmDrop
+main: com.chickenstyle.confirmdrop.Main
+description: Confirms Drop
+version: 1.0
+commands:
+  confirmdrop:
+    aliases: [cd]
+    description: ConfirmDrop command!
